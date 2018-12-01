@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1391969205 source:d:\dokumenty\jack\main.c
+	<allegro.h>
+	<stdlib.h>
+
